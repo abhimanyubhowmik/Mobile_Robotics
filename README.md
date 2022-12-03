@@ -10,15 +10,13 @@ In each week, there is something to do for you, for example, readings or watchin
 
 ### Mobile Robotics / Probabilistic Robotics (Fall 2022)
 
-![](Images/UTN-banner-2.png)
-
 Location and Time: Online, access via Canvas (8 weeks)
 Starts: November 14, 2022
 Ends: January, 29, 2023
 
 ### Instructor 
 
-![](Images/wolfram-portrait.jpeg)
+<img src="Images/wolfram-portrait.jpeg" alt="wolfram" width="100"/>
 
 Prof. Dr. Wolfram Burgard
 Office: Ulmenstr. 52i, Nuremberg
