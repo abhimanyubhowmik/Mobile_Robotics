@@ -16,7 +16,7 @@ Ends: January, 29, 2023
 
 ### Instructor 
 
-<img src="Images/wolfram-portrait.jpeg" alt="wolfram" width="100"/>
+<img src="Images/wolfram-portrait.jpeg" alt="wolfram" width="300"/>
 
 Prof. Dr. Wolfram Burgard
 Office: Ulmenstr. 52i, Nuremberg
