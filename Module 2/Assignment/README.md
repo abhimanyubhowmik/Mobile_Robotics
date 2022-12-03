@@ -11,7 +11,7 @@ If you have not yet installed the Webots simulator Links to an external site., p
 
 ### Differential drive (3 hours, 10 points)
 
-Implement a differential drive controller to move the robot from the start pose (-1m,2m ,$\pi$ ) to the goal pose (-1m,-2m ,$\pi$ ). In other words, the robot should be translated by  meters along the -axis in world coordinates, as shown below.
+Implement a differential drive controller to move the robot from the start pose (-1m,2m ,180 degrees ) to the goal pose (-1m,-2m ,180 degrees ). In other words, the robot should be translated by  meters along the -axis in world coordinates, as shown below.
 
 <table border="0">
  <tr>
