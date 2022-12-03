@@ -20,7 +20,7 @@ Ends: January, 29, 2023
 
 <table border="0">
  <tr>
-    <td><img src="Images/wolfram-portrait.jpeg" alt="wolfram" width="300"/></td>
+    <td><img src="Images/wolfram-portrait.jpeg" alt="wolfram" width="250"/></td>
     <td>Prof. Dr. Wolfram Burgard
 
 Office: Ulmenstr. 52i, Nuremberg
