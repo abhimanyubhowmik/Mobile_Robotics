@@ -11,7 +11,9 @@ In each week, there is something to do for you, for example, readings or watchin
 ### Mobile Robotics / Probabilistic Robotics (Fall 2022)
 
 Location and Time: Online, access via Canvas (8 weeks)
+
 Starts: November 14, 2022
+
 Ends: January, 29, 2023
 
 ### Instructor 
@@ -19,16 +21,19 @@ Ends: January, 29, 2023
 <img src="Images/wolfram-portrait.jpeg" alt="wolfram" width="300"/>
 
 Prof. Dr. Wolfram Burgard
+
 Office: Ulmenstr. 52i, Nuremberg
+
 Email: wolfram.burgard@utn.de
 
 ### Teaching Assistants
 
-Dr. Michael Krawez
-Reihaneh Mirjalili
+1. Dr. Michael Krawez
+2. Reihaneh Mirjalili
 
 ### Course Textbook
 Recommended: Thrun, Burgard & Fox (2005), "Probabilistic Robotics"
+
 ISBN: 9780262201629
 
 ### Course Description
