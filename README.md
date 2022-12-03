@@ -18,13 +18,20 @@ Ends: January, 29, 2023
 
 ### Instructor 
 
-<img src="Images/wolfram-portrait.jpeg" alt="wolfram" width="300"/>
-
-Prof. Dr. Wolfram Burgard
+<table border="0">
+ <tr>
+    <td><img src="Images/wolfram-portrait.jpeg" alt="wolfram" width="300"/></td>
+    <td>Prof. Dr. Wolfram Burgard
 
 Office: Ulmenstr. 52i, Nuremberg
 
 Email: wolfram.burgard@utn.de
+</td>
+ </tr>
+</table>
+
+
+
 
 ### Teaching Assistants
 
