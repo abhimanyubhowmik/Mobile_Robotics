@@ -8,7 +8,7 @@ In each week, there is something to do for you, for example, readings or watchin
 
 ## Course Syllabus
 
-### Mobile Robotics / Probabilistic Robotics (Fall 2022)
+### Mobile Robotics / Probabilistic Robotics - Fall 2022
 
 Location and Time: Online, access via Canvas (8 weeks)
 
