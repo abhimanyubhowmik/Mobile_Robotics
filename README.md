@@ -25,8 +25,7 @@ Ends: January, 29, 2023
 
 Office: Ulmenstr. 52i, Nuremberg
 
-Email: wolfram.burgard@utn.de
-</td>
+Email: wolfram.burgard@utn.de </td>
  </tr>
 </table>
 
