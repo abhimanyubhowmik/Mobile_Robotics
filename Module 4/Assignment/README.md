@@ -9,7 +9,7 @@ Implement the sampling algorithm for the odometry-based motion model. To that en
 The template contains some evaluation code that you do not need to modify. There, the motion sampling function is applied to 1000 samples for ten consecutive steps. The robot starts at the origin and in each step moves one meter along the x-axis in its own frame. In steps three and six it also performs a 90 drgees left turn. If your sampling algorithm is correct, you should see an output similar to the one below:
 
 
-<img src="Images/motion_model_plot.png" alt="img0" width="300"/>
+<img src="Images/motion_model_plot.png" alt="img0" width="500"/>
 
 
 ### Sensor Model (4 hours, 10 points)
@@ -22,10 +22,10 @@ Assume that the robot lives in a 2D world where all obstacles have a circular fo
 Please download sensor_model.zip Download sensor_model.zipand unpack the files in the same directory. The file motion_model.py contains the stubs of the functions that you need to implement along with evaluation code. It also contains the array of circles that define the map, the robot pose, parameter values, and further comments. Complete the function distance_to_closest_intersection which returns the distance between the robot and the closest intersection for one beam. Return infinity if there is no intersection. If done correctly, the script will generate the following graphic, where the blue dot is the robot position, the black circles are the obstacles, the red lines are the beams, and the red dots are the closest intersections. If you cannot solve this assignment part, you can still complete the next part by loading the correct results from z_scan_exp.npy.
 
 
-<img src="Images/circle_world.png" alt="img0" width="300"/>
+<img src="Images/circle_world.png" alt="img0" width="500"/>
 
 
-Simplified Beam-based Model (4 points)
+#### Simplified Beam-based Model (4 points)
 
 In the last assignment part, you are asked to implement a simplified beam-based sensor model that only considers measurement noise. In other words, we use P(z|x,m) = P_hit(z|x,m) for a single beam measurement z and ignore the other model components shown in the slides. The expected distance z_exp is obtained by the distance_to_closest_intersection function from the previous part, the variance parameter b is 1 sq cm , and z_max is 10m.  To compute the normalizer eta for each measurement you should use the function normalizer provided in the code. Further, if z > z_max holds, use probability of 1 for that beam.
 
