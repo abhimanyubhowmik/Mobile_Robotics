@@ -11,9 +11,9 @@ Besides the material provided in Canvas, we recommend reading the following chap
 
 After this learning unit, you should be able to:
 
-model the motion uncertainty of a wheeled robot
-implement an algorithm that samples from the odometry-based motion model
-understand and apply a sensor model to estimate the likelihood of a range measurement
+* model the motion uncertainty of a wheeled robot
+* implement an algorithm that samples from the odometry-based motion model
+* understand and apply a sensor model to estimate the likelihood of a range measurement
 
 # To-Do List
 In order to successfully complete Module 3, you should do the following: 
