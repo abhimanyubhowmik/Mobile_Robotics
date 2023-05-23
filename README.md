@@ -42,6 +42,11 @@ Recommended: Thrun, Burgard & Fox (2005), "Probabilistic Robotics"
 
 ISBN: 9780262201629
 
+### Certificate
+<br>
+<img src="Images/Utn Certificate.png" alt="wolfram" width="250"/>
+<br><br>
+
 ### Course Description
 This course will introduce basic concepts and techniques used within the field of mobile robotics. The course focuses on the fundamental challenges for autonomous intelligent systems and presents the state of the art solutions. Among other topics, we will discuss:
 
