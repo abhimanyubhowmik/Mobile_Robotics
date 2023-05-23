@@ -17,6 +17,7 @@ Starts: November 14, 2022
 Ends: January, 29, 2023
 
 ### Instructor 
+<p align="center">
 
 <table border="0">
  <tr>
@@ -28,6 +29,8 @@ Office: Ulmenstr. 52i, Nuremberg
 Email: wolfram.burgard@utn.de </td>
  </tr>
 </table>
+
+</p>
 
 
 
@@ -43,9 +46,11 @@ Recommended: Thrun, Burgard & Fox (2005), "Probabilistic Robotics"
 ISBN: 9780262201629
 
 ### Certificate
+<p align="center">
 <br>
-<img src="Images/Utn Certificate.png" alt="wolfram" width="250"/>
+<img src="Images/Utn Certificate.png" alt="wolfram" width="650"/>
 <br><br>
+</p>
 
 ### Course Description
 This course will introduce basic concepts and techniques used within the field of mobile robotics. The course focuses on the fundamental challenges for autonomous intelligent systems and presents the state of the art solutions. Among other topics, we will discuss:
